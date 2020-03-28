@@ -1,1 +1,9 @@
 # epidemic-user-message
+# user-log-up
+# management-log-up
+# user-fill-in
+# management-user-add
+# management-user-delete
+# management-user-update
+# management-user-query
+# data-histogram
